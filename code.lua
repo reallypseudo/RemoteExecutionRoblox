@@ -1,1 +1,1 @@
-game.Players.OrdinaryTuba:LoadCharacter()
+disabled
